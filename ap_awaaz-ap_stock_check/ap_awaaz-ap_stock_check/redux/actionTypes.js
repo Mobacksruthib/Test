@@ -1,0 +1,3 @@
+export const DASHBOARD_DETAILS = "DASHBOARD_DETAILS";
+export const USER_DETAILS = "USER_DETAILS";
+export const CART_DETAILS = "CART_DETAILS";
